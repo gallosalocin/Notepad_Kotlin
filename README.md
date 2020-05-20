@@ -3,6 +3,12 @@ Application Notepad en Kotlin
 
 ![Notepad Kotlin App](https://user-images.githubusercontent.com/49925096/82357931-13bf3200-9a06-11ea-9d0b-ca7a1a27f89a.gif)
 
+## Tech/Framework/Library
+- [Kotlin](https://developer.android.com/kotlin/get-started)
+- [AndroidX](https://developer.android.com/jetpack/androidx)
+- [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
+
+
 ## Installation
 - Depuis Github appuyer sur Clone or download ou copier directement: https://github.com/gallosalocin/Notepad_Kotlin.git
 - Dans Android Studio cliquer sur `File`, `New`, `Project from Version Control` et enfin sur `Git`.
